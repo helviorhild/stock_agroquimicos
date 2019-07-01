@@ -1,5 +1,6 @@
 # stock_agroquimicos
-Aplicacion desarrollada usando wt (witty) y C++, para control de stock y aplicaiones de agroquimicos, sin terminar usada solamente para comunicar al cliente, la manera de trabajo;
+Aplicacion desarrollada usando wt (witty) y C++, para control de stock y aplicaiones de agroquimicos, sin terminar usada solamente para comunicar al cliente, la manera de trabajo;<br>
+libzbar and opencv is used to read barcodes,using  cell phone camera<br>
 This app don't use wt dbo driver, because I want to define all data in database, and the app must adapt to.<br>
 Things todo:<br>
 *user level, because is some intranet app, I'll be using the database user management.<br>
