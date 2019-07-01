@@ -9,4 +9,5 @@ Things todo:<br>
 *Export to pdf, will be used to send the work order.<br>
 *setup file, for database connections.<br>
 
-<H1>por consultas:   helviorhild (arroba)   gmail (punto) com</H1>
+<H1>por consultas:   helviorhild (arroba)   gmail (punto) com</H1><br>
+agroquimicos.sql is postgres database dump. For recreation database definition for app test<br>
